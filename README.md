@@ -1,2 +1,2 @@
 # plotly
-Plotly Playground für Erwerb von Grundkenntnissen
+Plotly Playground für den Erwerb von Grundkenntnissen
